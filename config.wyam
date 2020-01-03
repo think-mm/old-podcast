@@ -2,7 +2,9 @@
 
 // Customize your settings and add new ones here
 Settings[Keys.Host] = "www.mukto-mona.com";
-Settings[BlogKeys.Title] = "My Blog";
-Settings[BlogKeys.Description] = "Welcome!";
+Settings[Keys.LinksUseHttps] = true;
+Settings[BlogKeys.Title] = "mukto-mona main site";
+Settings[BlogKeys.Description] = "mukto-mona";
+Settings[BlogKeys.Intro] = "Currently bringing podcasts here!";
 
 // Add any pipeline customizations here
