@@ -1,0 +1,29 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+  branches:
+    include:
+      - source
+    exclude:
+      - master
+  paths:
+    exclude:
+      - .gitignore
+      - README.md
+pool:
+  vmImage: 'windows-2019'
+
+steps:
+  - task: cake-build.cake.cake-build-task.Cake@0
+    displayName: "Build and publish Wyam site"
+    inputs:
+      target: Deploy
+    env:
+      GITHUB_REPO_URL: $(githubUserRepoUrl)
+      GITHUB_ACCESS_TOKEN: $(githubAccessToken)
+      GITHUB_USERNAME: "$(githubUserName)"
+      GITHUB_USEREMAIL: "$(githubUserEmail)"
+      CNAME_CONTENT: "$(CNameContent)"
