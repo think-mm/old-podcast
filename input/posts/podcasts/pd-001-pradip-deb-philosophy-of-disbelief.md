@@ -11,6 +11,8 @@ Tags:
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
+- [apple podcast](https://podcasts.apple.com/us/podcast/id1212085883)
+- [Google Play Music](https://play.google.com/music/listen#/ps/Izc4javhi5igs66olhdfex42cxa)
 
 #### Comments
 [mukti printers](https://disqus.com/by/muktiprinters/) on April 19, 2018
