@@ -17,7 +17,7 @@ Tags:
 - [Google Play Music](https://play.google.com/music/listen#/ps/Izc4javhi5igs66olhdfex42cxa)
 
 #### Comments
-[Biplob Rahman](https://disqus.com/by/biplobrahman/ on March 25, 2019
+[Biplob Rahman](https://disqus.com/by/biplobrahman/) on March 25, 2019
 > দারুন উদ্যোগ! কত অজানা রে!
 
 _বিজ্ঞান, যুক্তি, মানবতাবাদ, ধর্মনিরপেক্ষতা, নাস্তিকতা, দর্শন নানা বিষয় নিয়ে শুনুন মুক্তমনা পডকাস্ট। পডকাস্ট সম্পর্কে আপনার মতামত জানাতে কিংবা আপনি পডকাস্ট তৈরিতে আগ্রহী হলে আমাদের লিখুন editor@mukto-mona.com এই ঠিকানায়।_
