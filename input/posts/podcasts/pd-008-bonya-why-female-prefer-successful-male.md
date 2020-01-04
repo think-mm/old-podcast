@@ -1,4 +1,4 @@
-Title: বিবর্তনীয় মনোবিদ্যা এবং নারীবাদ, পর্ব ১ - বন্যা আহমেদ
+Title: বিবর্তনীয় মনোবিদ্যা এবং নারীবাদ, পর্ব ২: নারীরা কেন সাধারণত সফল পুরুষ পছন্দ করে? - বন্যা আহমেদ
 Published: 3/19/2017
 Tags:
   - বিবর্তনীয় মনোবিজ্ঞান ও নারীবাদ
@@ -25,7 +25,7 @@ Tags:
 11. Petersen, J. L., & Hyde, J. S, 2010, A meta-analytic review of research on gender differences in sexuality, 1993 - 2007. Psychological Bulletin, 136, 21–38.
 
 
-পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1Wq6amjc4de8TJ_ewAU8rKpewEAm0sLOv)।
+পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=16WVqq4cHVzPsE_KcS92qW0k_ZflNUMr7)।
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
