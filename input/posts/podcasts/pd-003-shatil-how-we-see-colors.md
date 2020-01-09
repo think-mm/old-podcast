@@ -9,7 +9,7 @@ Tags:
 
 আজকের পর্বে আমি আলোচনা করব বর্ণের বিজ্ঞান নিয়ে। চোখ মেলে আমাদের দেখা ভোরের সূর্যালোক থেকে পাখির ডানা ঝাপটানো, অজস্র রঙের ফুল, আমাদের চোখে দেখা চারপাশের এই সবুজ পৃথিবী, চিন্তা করে দেখুনতো, এত বর্ণিল পৃথিবীর বর্ণটা আমরা কিভাবে দেখি? এটা আমার কাছে এক অদ্ভুত সৌন্দযময় বিস্ময়। আমরা কিভাবে বর্ণ দেখি তা বুঝতে হলে আমাদের একই সাথে বর্ণের পদার্থবিজ্ঞান আর স্নায়বিজ্ঞানকে জানতে হবে। পডকাস্ট শুনতে পাবেন নিচের প্লেয়ারে।
 
-পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1T6SFuofVEnsA3Ortzaku5vDoKWNXe55O)।
+পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1UWACl5fh8Ta7JexCEzenl-tx8F6Wx3_j)।
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)

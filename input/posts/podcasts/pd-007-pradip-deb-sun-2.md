@@ -3,11 +3,12 @@ Published: 3/18/2017
 Tags:
   - জ্যোতির্বিজ্ঞান
   - podcasts
+  - প্রদীপ দেব
 ---
 
 সুর্য নিয়ে পডকাস্টের দ্বিতীয় পর্বে প্রদীপ আলোচনা করেছেন সূর্যের জন্ম কীভাবে হলো, সূর্যের গঠন কী রকম এবং সূর্যের শক্তির উৎস সম্পর্কে।
 
-পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=109uTkmWT-XiqElq5IRtUZx0kG_gHDKnR)।
+পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1KxLh_QkrAC8lWeN9Cq_4T-to1AoGpcNn)।
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)

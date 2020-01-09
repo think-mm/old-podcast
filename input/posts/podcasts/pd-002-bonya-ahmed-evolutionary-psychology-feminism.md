@@ -7,7 +7,7 @@ Tags:
 ---
 মুক্তমনা পডকাস্টের এ পর্বে বন্যা আহমেদ আলোচনা করেছেন বিবর্তনীয় মনোবিজ্ঞান ও নারীবাদ বিষয়ে।
 
-পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1Wq6amjc4de8TJ_ewAU8rKpewEAm0sLOv)।
+পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1q6yZ3487EUQ-ollS0aKIQwrBwvKDSIWE)।
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)

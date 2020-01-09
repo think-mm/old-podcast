@@ -25,7 +25,7 @@ Tags:
 11. Petersen, J. L., & Hyde, J. S, 2010, A meta-analytic review of research on gender differences in sexuality, 1993 - 2007. Psychological Bulletin, 136, 21–38.
 
 
-পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=16WVqq4cHVzPsE_KcS92qW0k_ZflNUMr7)।
+পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=19dBI6z6jel1ETztRR-A6cNrflm9B48ZN)।
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)

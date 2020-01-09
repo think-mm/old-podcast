@@ -7,7 +7,7 @@ Tags:
 ---
 মুক্তমনা পডকাস্টের এ পর্বে প্রদীপ দেব আলোচনা করেছেন অবিশ্বাসের দর্শন বই, মুক্তচিন্তা, মুক্তমনা, একুশে বইমেলা, অভিজিৎ রায়কে নিয়ে।
 
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/file/d/1XOyuABy5c8eEKhsazRS2ajP9V-xc9Sq-)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1mvTUwnOULBGoi9dmxvNXBUgr3czxQ11B)।
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
