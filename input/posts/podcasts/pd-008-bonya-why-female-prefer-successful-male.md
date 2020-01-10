@@ -7,6 +7,9 @@ Tags:
 ---
 আজকে বিবর্তনীয় মনোবিদ্যা এবং নারীবাদের দ্বিতীয় পর্বের বিষয়বস্তু হচ্ছে, নারীরা কেন সাধারণত সফল পুরুষ পছন্দ করে? আজকের এই আলোচনায় প্রাসঙ্গিকভাবে আসবে পিতৃতন্ত্রের উৎপত্তি, parental investment তত্ত্ব, অর্থাৎ গর্ভধারণ থেকে শুরু করে সন্তানের লালন পালনে বাবা মারা যে সময় বিনিয়োগ করে , নারী পুরুষের Sexual strategy বা যৌন কৌশল, জীবনসঙ্গী বাছাই, স্বল্পমেয়াদী ও দীর্ঘমেয়াদি যৌন সম্পর্ক তৈরির ক্ষেত্রে নারী পুরষের মনস্তাত্ত্বিক মিল এবং অমিলগুলো নিয়ে বিস্তারিত আলোচনা।
 
+
+পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=19dBI6z6jel1ETztRR-A6cNrflm9B48ZN)।
+
 ![photo of bird](../img/Calliope-nest_edit.jpg)
 
 **তথ্যসূত্র:**
@@ -23,9 +26,6 @@ Tags:
 9. Buss, David, 1999, Evolutionary Psychology: The New Science of the Mind. Need ham Heights, MA: Allyn and Bacon.
 10. Hrdy, Sarah, 1997 ‘Raising Darwin’s Consciousness: Female Sexuality and the Prehominid Origins of Patriarchy’, Human Nature 8(1): 1–49.
 11. Petersen, J. L., & Hyde, J. S, 2010, A meta-analytic review of research on gender differences in sexuality, 1993 - 2007. Psychological Bulletin, 136, 21–38.
-
-
-পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=19dBI6z6jel1ETztRR-A6cNrflm9B48ZN)।
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
