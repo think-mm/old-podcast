@@ -6,7 +6,7 @@ Tags:
 ---
 এই পডকাস্ট সিরিজের বিষয় সমকামী মানুষের সামাজিক অধিকার অর্জনের আন্দোলন। প্রথম পর্বে আলোচনা করা হয়েছে ভারতীয় উপমহাদেশে এ আন্দোলনের প্রেক্ষাপট ও ইতিহাস নিয়ে।
 
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/file/d/1XOyuABy5c8eEKhsazRS2ajP9V-xc9Sq-)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1uLabE6Obx3A9y0Oayk_y7W0Ap43r8bVN)।
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)

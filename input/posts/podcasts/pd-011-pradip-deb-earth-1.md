@@ -9,7 +9,7 @@ Tags:
 
 এ পর্বে সৌরজগতের গ্রহগুলোর উৎপত্তি এবং পৃথিবী গ্রহের প্রাথমিক ব্যাপারগুলো আলোচিত হয়েছে।
 
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/file/d/1XOyuABy5c8eEKhsazRS2ajP9V-xc9Sq-)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1_IDZsS5_G7StGIIwMPkhIdR98VW7J_Yt)।
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)

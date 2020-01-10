@@ -6,13 +6,13 @@ Tags:
 ---
 বিবর্তনীয় মনোবিদ্যা এবং নারীবাদের এই তিন নম্বর পর্বে, বন্যা আহমেদ মাতৃতন্ত্র, বাংলাদেশের নারীদের অবস্থান, দাবী এবং আন্দোলন নিয়ে কথা বলেছেন সমাজ সংগঠক খুশী কবিরের সাথে।
 
-#### আগের পর্ব
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1OLp8iPPF9yO-I0ggK8ZRt1TUN5_GDqvO)।
 
-[বিবর্তনীয় মনোবিদ্যা এবং নারীবাদ, পর্ব ২ - নারীরা কেন সাধারণত সফল পুরুষ পছন্দ করে? - বন্যা আহমেদ](https://blog.mukto-mona.com/podcast/bonya02/)
 
-[বিবর্তনীয় মনোবিদ্যা এবং নারীবাদ, পর্ব ১ - বন্যা আহমেদ](https://blog.mukto-mona.com/podcast/podcast-01-bonya/)
+**আগের পর্ব**
 
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/file/d/1XOyuABy5c8eEKhsazRS2ajP9V-xc9Sq-)।
+- [বিবর্তনীয় মনোবিদ্যা এবং নারীবাদ, পর্ব ২ - নারীরা কেন সাধারণত সফল পুরুষ পছন্দ করে? - বন্যা আহমেদ](https://bn.mukto-mona.com/posts/pd-002-bonya-ahmed-evolutionary-psychology-feminism)
+- [বিবর্তনীয় মনোবিদ্যা এবং নারীবাদ, পর্ব ১ - বন্যা আহমেদ](https://bn.mukto-mona.com/posts/pd-002-bonya-ahmed-evolutionary-psychology-feminism)
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)

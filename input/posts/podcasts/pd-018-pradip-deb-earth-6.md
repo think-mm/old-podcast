@@ -7,7 +7,7 @@ Tags:
 ---
 এই পর্বে আলোচনা করা হয়েছে পৃথিবীর প্রাকৃতিক পরিবর্তন - সময়, অভিকর্ষজ ত্বরণ, ভর ইত্যাদির পরিবর্তন এবং প্রাকৃতিক ঘটনা - মেঘ, বৃষ্টি, সাইক্লোন, টর্নেডো ইত্যাদির কারণ সম্পর্কে।
 
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/file/d/1XOyuABy5c8eEKhsazRS2ajP9V-xc9Sq-)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1RROMk4gamujLbEU2xiPn-3CwnvwXn-5v)।
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)

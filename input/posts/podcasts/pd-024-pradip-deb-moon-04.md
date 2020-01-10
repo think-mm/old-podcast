@@ -7,9 +7,10 @@ Tags:
 ---
 মানুষের বুদ্ধিবৃত্তিক উন্নতি ঘটার শুরু থেকেই মানুষ অনুসন্ধিৎসু হয়ে ওঠে চাঁদের ব্যাপারে। চাঁদের প্রতি মানুষের কৌতুহল প্রাগৈতিহাসিক। এই পর্বে আলোচনা করা হয়েছে মানুষের চাঁদে অভিযানের একেবারে প্রথম দিকের প্রস্তুতি ও সোভিয়েত ইউনিয়নের লুনা প্রজেক্ট নিয়ে।
 
-[সাউণ্ডক্লাউড লিঙ্ক](https://soundcloud.com/mukto-mona/moon-04-pradip-deb)
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1q8pay2CiD_pbfcVHQza4ijUaEXQ_JJar)।
 
-[আগের পর্ব চাঁদ ০৩](http://podcast.mukto-mona.com/pradip-deb-moon-03)
+
+[আগের পর্ব চাঁদ ০৩](https://bn.mukto-mona.com/posts/pd-027-pradip-deb-moon-07)
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)

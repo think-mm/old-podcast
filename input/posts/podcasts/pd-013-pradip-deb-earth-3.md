@@ -7,7 +7,7 @@ Tags:
 ---
 এই পর্বে আলোচনা করা হয়েছে - পৃথিবীর আকাশ কেন নীল, পৃথিবীতে পানি এলো কোত্থেকে, এবং পৃথিবীর গঠন নিয়ে।
 
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/file/d/1XOyuABy5c8eEKhsazRS2ajP9V-xc9Sq-)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1tS30V-OEaZo4HpXM5Q4GS7ly0LH1j-dR)।
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)

@@ -7,9 +7,7 @@ Tags:
 ---
 এই পর্বে চাঁদ সম্পর্কে পৃথিবীর বিভিন্ন সংস্কৃতির মানুষের সংস্কার ও বিশ্বাস সম্পর্কে আলোকপাত করা হয়েছে।
 
-[সাউণ্ডক্লাউড লিঙ্ক](https://soundcloud.com/mukto-mona/eyv5vqwqkobk)
-
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/file/d/1XOyuABy5c8eEKhsazRS2ajP9V-xc9Sq-)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1B3N6dKODMvwiSBOe5AxRg_FEVFodBC9X)।
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)

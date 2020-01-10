@@ -9,9 +9,7 @@ Tags:
 
 চাঁদ নিয়ে পডকাস্টের তৃতীয় পর্বে সূর্যগ্রহণ, চন্দ্রগ্রহণ ও জোয়ার-ভাটায় চাঁদের কী কী ভূমিকা আছে সেটা আলোচনা করা হয়েছে।
 
-[সাউণ্ডক্লাউড লিঙ্ক](https://soundcloud.com/mukto-mona/moon-03)
-
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/file/d/1XOyuABy5c8eEKhsazRS2ajP9V-xc9Sq-)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1QX4S1P27HwkuDFAtkw6PAovwZlyguJGi)।
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)

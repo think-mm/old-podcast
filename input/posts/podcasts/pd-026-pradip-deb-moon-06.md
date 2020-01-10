@@ -7,9 +7,7 @@ Tags:
 ---
 এই পর্বে চাঁদে মানুষ পাঠানোর মিশন অ্যাপোলো নিয়ে আলোচনা করা হয়েছে। মোট সতেরটি অ্যাপোলো মিশনের প্রথম সাতটি মিশন সম্পর্কে বলা হয়েছে এই পর্বে।
 
-[সাউণ্ডক্লাউড লিঙ্ক](https://soundcloud.com/mukto-mona/dnhzdstr7yjc)
-
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/file/d/1XOyuABy5c8eEKhsazRS2ajP9V-xc9Sq-)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1nJDQ1hBgaRDzaMt4DinBPhpyDCLwOqvm)।
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)

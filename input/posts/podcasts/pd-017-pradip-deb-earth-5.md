@@ -9,7 +9,7 @@ Tags:
 
 এই পর্বে আলোচনা করা হয়েছে পৃথিবীর বাতাসে অক্সিজেন আসার আগেই কীভাবে প্রাণের উৎপত্তি হয়েছে এবং সেই প্রাণ কীভাবে এখনো টিকে আছে।
 
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/file/d/1XOyuABy5c8eEKhsazRS2ajP9V-xc9Sq-)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1yR3cpdJrXeoR3EIEkA8mYCpYKfMND_GY)।
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)

@@ -8,11 +8,11 @@ Tags:
 ---
 ডক্টর দীপেন ভট্টাচার্যের জ্যোতির্বিজ্ঞান সিরিজ পডকাস্টের এ পর্ব 'সপ্তম গ্রহ' নিয়ে।
 
-#### আগের পডকাস্ট
+**আগের পডকাস্ট**
 
-[সৌরজগতের বাইরের গ্রহ](https://podcast.mukto-mona.com/dipen-new-planets-outside-solar-system/)
+[সৌরজগতের বাইরের গ্রহ](https://bn.mukto-mona.com/posts/pd-006-dipen-new-planets-outside-solar-system)
 
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/file/d/1XOyuABy5c8eEKhsazRS2ajP9V-xc9Sq-)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1sGtK6Zb3l-kFkoVgaEx7u0KEt5mcsqp2)।
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
