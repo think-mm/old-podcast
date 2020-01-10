@@ -1,7 +1,7 @@
 Title: মুক্তমনা পডকাস্ট - সমকামি মানুষের অধিকার অর্জন আন্দোলন
 Published: 4/15/2017
 Tags:
-  - LGBTQ অধিকার
+  - Misc
   - podcasts
 ---
 এই পডকাস্ট সিরিজের বিষয় সমকামী মানুষের সামাজিক অধিকার অর্জনের আন্দোলন। প্রথম পর্বে আলোচনা করা হয়েছে ভারতীয় উপমহাদেশে এ আন্দোলনের প্রেক্ষাপট ও ইতিহাস নিয়ে।
@@ -12,6 +12,7 @@ Tags:
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
 - [apple podcast](https://podcasts.apple.com/us/podcast/id1212085883)
 - [Google Play Music](https://play.google.com/music/listen#/ps/Izc4javhi5igs66olhdfex42cxa)
+- [EHF - HUGE ALLIANCE PROTESTS GOVERNMENT RESPONSE TO BANGLADESH BLOGGER MURDERS](https://humanistfederation.eu/huge-alliance-protests-government-response-bangladesh-blogger-murders/)
 
 #### Comments
 [Shoikot_Chy](https://disqus.com/by/Shoikot_Chy/) on April 27, 2017
