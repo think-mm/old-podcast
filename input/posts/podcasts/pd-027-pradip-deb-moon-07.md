@@ -1,5 +1,5 @@
 Title: চাঁদ পর্ব ০৩ - প্রদীপ দেব
-Published: 8/21/2017
+Published: 8/21/2014
 Tags:
   - জ্যোতির্বিজ্ঞান
   - podcasts
@@ -9,7 +9,7 @@ Tags:
 
 আজকের পর্বে অ্যাপোলো মিশন আট, নয়, দশ ও এগারো - এই চারটি মিশন সম্পর্কে আলোচনা করা হয়েছে। মানুষ চাঁদের বুকে প্রথম পা রেখেছিল অ্যাপোলো-১১ মিশনে। নিল আর্মস্ট্রং, এডউইন অলড্রিন ও মাইকেল কলিন্স-এর নাম আমরা সবাই জানি। এই পর্বে আলোচনা করা হলো তাঁরা কীভাবে চাঁদে গিয়েছিলেন এবং কীভাবে নেমেছিলেন চাঁদের বুকে।
 
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1-91V9cmYLsqRcdC-4W4UgDmoDS_O-kX5)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1-91V9cmYLsqRcdC-4W4UgDmoDS_O-kX5)। প্রকাশনার তারিখ 8/21/2017
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
