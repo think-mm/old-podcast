@@ -1,5 +1,5 @@
 Title: সূর্য পর্ব ০২ - প্রদীপ দেব
-Published: 3/18/2017
+Published: 3/18/2014
 Tags:
   - জ্যোতির্বিজ্ঞান
   - podcasts
@@ -8,7 +8,7 @@ Tags:
 
 সুর্য নিয়ে পডকাস্টের দ্বিতীয় পর্বে প্রদীপ আলোচনা করেছেন সূর্যের জন্ম কীভাবে হলো, সূর্যের গঠন কী রকম এবং সূর্যের শক্তির উৎস সম্পর্কে।
 
-পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1iZLma03-N0AMMpSDyaC6RtwDHvU1Qyu9)।
+পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1iZLma03-N0AMMpSDyaC6RtwDHvU1Qyu9)। প্রকাশনার তারিখ 3/18/2017
 
 Smaller size audio file can be streamed [here](https://drive.google.com/open?id=1KxLh_QkrAC8lWeN9Cq_4T-to1AoGpcNn).
 
