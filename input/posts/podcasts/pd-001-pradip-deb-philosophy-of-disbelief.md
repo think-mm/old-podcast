@@ -1,5 +1,5 @@
 Title: অবিশ্বাসের দর্শন ও অভিজিৎ রায় - প্রদীপ দেব
-Published: 2/24/2017
+Published: 2/24/2014
 Tags:
   - বিশ্বাস ও অবিশ্বাস, বিজ্ঞান এবং দর্শন
   - podcasts
@@ -8,7 +8,7 @@ Tags:
 মুক্তমনা পডকাস্টের এ পর্বে প্রদীপ দেব আলোচনা করেছেন অবিশ্বাসের দর্শন বই (অভিজিৎ রায় ও রায়হান আবীর), মুক্তচিন্তা, মুক্তমনা, একুশে বইমেলা, অভিজিৎ রায়কে নিয়ে।
 
 
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1mvTUwnOULBGoi9dmxvNXBUgr3czxQ11B)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1mvTUwnOULBGoi9dmxvNXBUgr3czxQ11B)। প্রকাশনার তারিখ 2/24/2017
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
