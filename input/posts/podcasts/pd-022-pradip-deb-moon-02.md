@@ -1,5 +1,5 @@
 Title: চাঁদ পর্ব ০২ - প্রদীপ দেব
-Published: 7/22/2017
+Published: 7/22/2014
 Tags:
   - জ্যোতির্বিজ্ঞান
   - podcasts
@@ -7,7 +7,7 @@ Tags:
 ---
 চাঁদ নিয়ে পডকাস্টের দ্বিতীয় পর্বে সবাইকে স্বাগতম। এই পর্বে আলোচনা করা হয়েছে - চাঁদের ভর, আয়তন, ঘনত্ব, পৃথিবী থেকে দূরত্ব, চাঁদের গতি এবং চাঁদের তিথি সম্পর্কে।
 
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=14Yg2Vr6q9Ul6-UXMKxNu0Bx_nv0s6Zu4)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=14Yg2Vr6q9Ul6-UXMKxNu0Bx_nv0s6Zu4)। প্রকাশনার তারিখ 7/22/2017
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
