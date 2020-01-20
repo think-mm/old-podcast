@@ -1,5 +1,5 @@
 Title: পৃথিবী পর্ব ০৩ - প্রদীপ দেব
-Published: 4/15/2017
+Published: 4/15/2014
 Tags:
   - জ্যোতির্বিজ্ঞান
   - podcasts
@@ -7,7 +7,7 @@ Tags:
 ---
 এই পর্বে আলোচনা করা হয়েছে - পৃথিবীর আকাশ কেন নীল, পৃথিবীতে পানি এলো কোত্থেকে, এবং পৃথিবীর গঠন নিয়ে।
 
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1tS30V-OEaZo4HpXM5Q4GS7ly0LH1j-dR)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1tS30V-OEaZo4HpXM5Q4GS7ly0LH1j-dR)। প্রকাশনার তারিখ 4/15/2017
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
