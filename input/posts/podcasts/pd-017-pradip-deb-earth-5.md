@@ -1,5 +1,5 @@
 Title: পৃথিবী পর্ব ০৫ - প্রদীপ দেব
-Published: 4/29/2017
+Published: 4/29/2014
 Tags:
   - জ্যোতির্বিজ্ঞান
   - podcasts
@@ -9,7 +9,7 @@ Tags:
 
 এই পর্বে আলোচনা করা হয়েছে পৃথিবীর বাতাসে অক্সিজেন আসার আগেই কীভাবে প্রাণের উৎপত্তি হয়েছে এবং সেই প্রাণ কীভাবে এখনো টিকে আছে।
 
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1yR3cpdJrXeoR3EIEkA8mYCpYKfMND_GY)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1yR3cpdJrXeoR3EIEkA8mYCpYKfMND_GY)। প্রকাশনার তারিখ 4/29/2017
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
