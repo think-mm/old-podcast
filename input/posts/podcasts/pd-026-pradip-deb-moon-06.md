@@ -1,5 +1,5 @@
 Title: চাঁদ পর্ব ০৬ - প্রদীপ দেব
-Published: 9/19/2017
+Published: 9/19/2014
 Tags:
   - জ্যোতির্বিজ্ঞান
   - podcasts
@@ -7,7 +7,7 @@ Tags:
 ---
 এই পর্বে চাঁদে মানুষ পাঠানোর মিশন অ্যাপোলো নিয়ে আলোচনা করা হয়েছে। মোট সতেরটি অ্যাপোলো মিশনের প্রথম সাতটি মিশন সম্পর্কে বলা হয়েছে এই পর্বে।
 
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1nJDQ1hBgaRDzaMt4DinBPhpyDCLwOqvm)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1nJDQ1hBgaRDzaMt4DinBPhpyDCLwOqvm)। প্রকাশনার তারিখ 9/19/2017
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
