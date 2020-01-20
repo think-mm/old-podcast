@@ -1,5 +1,5 @@
 Title: চাঁদ পর্ব ০৩ - প্রদীপ দেব
-Published: 7/29/2017
+Published: 7/29/2014
 Tags:
   - জ্যোতির্বিজ্ঞান
   - podcasts
@@ -9,7 +9,7 @@ Tags:
 
 চাঁদ নিয়ে পডকাস্টের তৃতীয় পর্বে সূর্যগ্রহণ, চন্দ্রগ্রহণ ও জোয়ার-ভাটায় চাঁদের কী কী ভূমিকা আছে সেটা আলোচনা করা হয়েছে।
 
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1QX4S1P27HwkuDFAtkw6PAovwZlyguJGi)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1QX4S1P27HwkuDFAtkw6PAovwZlyguJGi)। প্রকাশনার তারিখ 7/29/2017
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
