@@ -1,14 +1,15 @@
 Title: বিশ্বাস ও বিজ্ঞান - প্রদীপ দেব
-Published: 3/4/2017
+Published: 3/4/2014
 Tags:
   - বিশ্বাস ও অবিশ্বাস, বিজ্ঞান এবং দর্শন
   - podcasts
   - প্রদীপ দেব
 ---
 
-মার্চ ৪, ২০১৭ তারিখে প্রকাশিত মুক্তমনা পডকাস্টের চতুর্থ পর্বে শুনুন ডক্টর প্রদীপ দেবের আলোচনা “বিশ্বাস ও বিজ্ঞান” নিয়ে। 
 
-পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1jABDFEUZR-mipYVdMpOTJ1NR3TSpRPbK)।
+মার্চ ৪, ২০১৭ তারিখে প্রকাশিত মুক্তমনা পডকাস্টের চতুর্থ পর্বে শুনুন ডক্টর প্রদীপ দেবের আলোচনা "বিশ্বাস ও বিজ্ঞান" নিয়ে। 
+
+পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1jABDFEUZR-mipYVdMpOTJ1NR3TSpRPbK), প্রকাশনার তারিখ 3/4/2017।
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
