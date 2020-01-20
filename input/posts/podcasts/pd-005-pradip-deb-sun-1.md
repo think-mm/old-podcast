@@ -1,5 +1,5 @@
 Title: সূর্য পর্ব ০১ - প্রদীপ দেব
-Published: 3/11/2017
+Published: 3/11/2014
 Tags:
   - জ্যোতির্বিজ্ঞান
   - podcasts
@@ -7,7 +7,7 @@ Tags:
 
 মুক্তমনা পডকাস্টের এ পর্বে প্রদীপ দেব আলোচনা করেছেন সূর্য নিয়ে। এটি প্রথম পর্ব।
 
-পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1jdvCl0xIZM7kEfu7alJovU1xLVRVajW_)।
+পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1jdvCl0xIZM7kEfu7alJovU1xLVRVajW_)। প্রকাশনার তারিখ 3/11/2017
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
