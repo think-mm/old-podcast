@@ -1,5 +1,5 @@
 Title: চাঁদ পর্ব ০১ - প্রদীপ দেব
-Published: 7/14/2017
+Published: 7/14/2014
 Tags:
   - জ্যোতির্বিজ্ঞান
   - podcasts
@@ -7,7 +7,7 @@ Tags:
 ---
 এই পর্বে চাঁদ সম্পর্কে পৃথিবীর বিভিন্ন সংস্কৃতির মানুষের সংস্কার ও বিশ্বাস সম্পর্কে আলোকপাত করা হয়েছে।
 
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1B3N6dKODMvwiSBOe5AxRg_FEVFodBC9X)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1B3N6dKODMvwiSBOe5AxRg_FEVFodBC9X)। প্রকাশনার তারিখ 7/14/2017
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
