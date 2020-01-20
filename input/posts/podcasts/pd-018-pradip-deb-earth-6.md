@@ -1,5 +1,5 @@
 Title: পৃথিবী পর্ব ০৬ - প্রদীপ দেব
-Published: 5/06/2017
+Published: 5/06/2014
 Tags:
   - জ্যোতির্বিজ্ঞান
   - podcasts
@@ -7,7 +7,7 @@ Tags:
 ---
 এই পর্বে আলোচনা করা হয়েছে পৃথিবীর প্রাকৃতিক পরিবর্তন - সময়, অভিকর্ষজ ত্বরণ, ভর ইত্যাদির পরিবর্তন এবং প্রাকৃতিক ঘটনা - মেঘ, বৃষ্টি, সাইক্লোন, টর্নেডো ইত্যাদির কারণ সম্পর্কে।
 
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1RROMk4gamujLbEU2xiPn-3CwnvwXn-5v)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1RROMk4gamujLbEU2xiPn-3CwnvwXn-5v)। প্রকাশনার তারিখ 5/06/2017
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
