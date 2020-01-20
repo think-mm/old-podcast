@@ -1,5 +1,5 @@
 Title: চাঁদ পর্ব ০৫ - প্রদীপ দেব
-Published: 8/12/2017
+Published: 8/12/2014
 Tags:
   - জ্যোতির্বিজ্ঞান
   - podcasts
@@ -7,7 +7,7 @@ Tags:
 ---
 চাঁদ নিয়ে পডকাস্টের পঞ্চম পর্ব। এই পর্বে আমেরিকানদের চাঁদে যাওয়ার প্রস্তুতির প্রাথমিক ধাপ পাইওনিয়ার প্রোগ্রাম, র‍্যাঞ্জার প্রোগ্রাম, সারভেয়ার প্রোগ্রাম ও লুনার অরবিটার প্রোগ্রাম সম্পর্কে আলোচনা করা হয়েছে।
 
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=10vPk5Vzr0BTmFucRqU5DfyzB08rTbeZC)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=10vPk5Vzr0BTmFucRqU5DfyzB08rTbeZC)। প্রকাশনার তারিখ 8/12/2017
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
