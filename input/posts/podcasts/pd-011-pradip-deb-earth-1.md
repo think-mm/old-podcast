@@ -1,5 +1,5 @@
 Title: পৃথিবী পর্ব ০১ - প্রদীপ দেব
-Published: 4/01/2017
+Published: 4/01/2014
 Tags:
   - জ্যোতির্বিজ্ঞান
   - podcasts
@@ -9,7 +9,7 @@ Tags:
 
 এ পর্বে সৌরজগতের গ্রহগুলোর উৎপত্তি এবং পৃথিবী গ্রহের প্রাথমিক ব্যাপারগুলো আলোচিত হয়েছে।
 
-মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1_IDZsS5_G7StGIIwMPkhIdR98VW7J_Yt)।
+মুক্তমনা বাংলা ব্লগে পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1_IDZsS5_G7StGIIwMPkhIdR98VW7J_Yt)। প্রকাশনার তারিখ 4/01/2017
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
