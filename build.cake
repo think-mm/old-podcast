@@ -1,7 +1,7 @@
-#tool nuget:?package=Wyam&version=2.2.9
-#tool nuget:?package=GitVersion.CommandLine&version=5.1.3
-#addin nuget:?package=Cake.Wyam&version=2.2.9
-#addin nuget:?package=Cake.Git&version=0.21.0
+#tool nuget:?package=Wyam
+#tool nuget:?package=GitVersion.CommandLine
+#addin nuget:?package=Cake.Wyam
+#addin nuget:?package=Cake.Git
 
 var target = Argument("target", "Default");
 
