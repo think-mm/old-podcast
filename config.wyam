@@ -1,11 +1,11 @@
 #recipe Blog
 
 // Customize your settings and add new ones here
-Settings[Keys.Host] = "bn.skeptics.xyz";
+Settings[Keys.Host] = "https://podcast.muktomona.com";
 Settings[Keys.LinksUseHttps] = true;
-Settings[BlogKeys.Title] = "MuktoMona Bangla Site";
-Settings[BlogKeys.Description] = "mukto-mona bangla hub";
-Settings[BlogKeys.Intro] = "Currently bringing podcasts here!";
+Settings[BlogKeys.Title] = "MuktoMona Bangla Podcast Site";
+Settings[BlogKeys.Description] = "for podcasts etc";
+Settings[BlogKeys.Intro] = "Deprecated, merged with bn blog please check https://arc.muktomona.com";
 
 // Add any pipeline customizations here
 #theme SolidState
